@@ -358,7 +358,7 @@ span, footer {  line-height: 1.8; }
     position: absolute;
     box-sizing: border-box;
     top: 80px;
-    right: 10px;
+    left: 50px ;
     font-weight: bold;
     text-align: right;
     font-size: 60px;
